@@ -1,0 +1,3 @@
+python is a good programming language and python is very easy to learn.
+python is platform independent.
+python clears your core concepts.
